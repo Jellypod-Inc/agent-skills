@@ -1,0 +1,22 @@
+{
+  "name": "jellypod-agent-skills",
+  "owner": {
+    "name": "Jellypod, Inc."
+  },
+  "metadata": {
+    "description": "A collection of Claude Code plugins for better web development"
+  },
+  "plugins": [
+    {
+      "name": "base-ui-best-practices",
+      "source": "./base-ui-best-practices",
+      "description": "Base UI best practices, component documentation, and migration from Radix UI callouts.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jellypod, Inc."
+      },
+      "keywords": ["base-ui", "shadcn", "radix", "migration", "best-practices"],
+      "category": "web-development"
+    }
+  ]
+}
