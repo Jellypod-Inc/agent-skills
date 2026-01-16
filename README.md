@@ -1,2 +1,2 @@
-# agent-skills
-A repo of public agent skills use to create better web applications. 
+# Jellypod - Agent Skills
+This repo provides agent skills for building better web applications. 
