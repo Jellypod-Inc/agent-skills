@@ -1,5 +1,5 @@
 {
-  "name": "jellypod-agent-skills",
+  "name": "jellypod-agent-plugins",
   "owner": {
     "name": "Jellypod, Inc."
   },
@@ -10,7 +10,7 @@
     {
       "name": "base-ui-best-practices",
       "source": "./base-ui-best-practices",
-      "description": "Base UI best practices, component documentation, and migration from Radix UI callouts.",
+      "description": "Base UI best practices, component documentation, and tips for Radix UI migrations.",
       "version": "1.0.0",
       "author": {
         "name": "Jellypod, Inc."

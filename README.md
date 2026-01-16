@@ -7,7 +7,7 @@ This repository includes a claude plugin marketplace, enabling you to easily ins
 To install this marketplace into Claude Code (and it's associated plugins/skills):
 1. Go to Claude Code via `claude`
 2. Type `/plugins` and go to the Marketplace tab.
-3. Add this repo's full url (https://github.com/Jellypod-Inc/agent-skills) in the "Add Marketplace".
+3. Add this repo's full url (https://github.com/Jellypod-Inc/agent-plugins) in the "Add Marketplace".
 4. Once the Marketplace has been adding, click 'i' to install any skills.
 
 The official plugin marketplace documentation can be found here: [https://code.claude.com/docs/en/discover-plugins](https://code.claude.com/docs/en/discover-plugins)
